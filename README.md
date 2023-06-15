@@ -139,7 +139,9 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
  
 ![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/740e991d-f58f-47f2-9457-3220e9ae0a28)
 
-### Referencia![img16](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/d86930ab-1d0d-4aee-878c-67c49368913b)
+### Referencia
+
+![img16](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/d86930ab-1d0d-4aee-878c-67c49368913b)
 
 
 
