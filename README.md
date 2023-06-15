@@ -7,7 +7,12 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 ## Ejercicio 11
 
 <br>
-| <a href="[URL](https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html)" target="_blank">Link Ejercicio11</a> |
+| 
+
+<a href="[URL](https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html)" target="_blank">Link Ejercicio11</a> 
+
+|
+
 | --- |
 
 |  |
