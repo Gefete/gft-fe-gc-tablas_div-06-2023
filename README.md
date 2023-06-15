@@ -3,7 +3,7 @@
 https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 <hr>
 ## Ejercicio 11
-<br> 
+<br> </br> 
 https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html
 <br> 
 ![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/44045a60-c305-474a-90c0-27b4ce495fca)
