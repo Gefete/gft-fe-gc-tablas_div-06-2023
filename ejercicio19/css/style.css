@@ -4,6 +4,6 @@ table{
 th, td{
     border: 1px black solid;
 }
-#origin{
+#origin td{
     font-weight: bold ;
 }
