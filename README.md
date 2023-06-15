@@ -11,26 +11,27 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html
 <br>
 
 ### Autor
-
 ![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/44045a60-c305-474a-90c0-27b4ce495fca)
 
 ### Referencia
-
 ![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/00e4500e-cf56-4735-a05c-0028cdc49809)
 
 <hr>
 
 ## Ejercicio 12
-
 <br> 
 
 https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/instalaciones.html
 
-<br> 
 
+### Autor
 ![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/80b15611-5bfb-4256-af40-9b93aeb62409)
 
+### Referencia
+![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/3a731090-b495-4015-9ed6-7bf055966a74)
+
 <hr>
+
 
 ## Ejercicio 13
 
