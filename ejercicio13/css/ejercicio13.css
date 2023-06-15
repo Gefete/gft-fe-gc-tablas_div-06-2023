@@ -1,0 +1,47 @@
+body{
+    text-align: center;font-weight: bold;
+}
+p{
+    font-size: medium;
+    margin: 3px 0px 3px 0px; 
+}
+table{
+    width: 100%;
+    height: 200px;
+    margin: auto;
+    /* border:  ; */
+    border: 3px rgb(203, 203, 203) solid;
+    border-bottom: 2px rgb(203, 203, 203) solid ;
+    border-right: 2px rgb(203, 203, 203)  solid;
+    box-shadow: rgba(0, 0, 0, 1) 2px 2px 0px 1px;
+    /* border: 2px solid; */
+    font-size: x-large;
+    
+    /* border-spacing: 0px; */
+}
+th, td{
+    margin: 90px;
+    border: 2px inset;
+}
+tr{
+    
+}
+.col2 {
+    color: red;
+    border: 1px inset;
+    border-top-color: red    ;
+    border-bottom-color:rgb(236, 201, 201);
+    border-right-color:rgb(238, 238, 238);
+    border-left-color:red;   
+}
+th{
+    background-color: rgb(153, 255, 154);
+}
+#celda2{
+    text-align: left;
+    background-color: rgb(101, 255, 255);
+}
+#celda6{
+    text-align: right;
+    background-color: rgb(255, 153, 255);
+}

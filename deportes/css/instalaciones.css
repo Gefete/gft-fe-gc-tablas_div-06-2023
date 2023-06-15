@@ -1,0 +1,8 @@
+.instalaciones td:nth-child(1) {
+    padding-right: 80px;
+    justify-items: right;
+}
+
+.instalaciones td:nth-child(2) {
+    text-align: center;
+}

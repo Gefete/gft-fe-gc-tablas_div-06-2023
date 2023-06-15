@@ -1,0 +1,21 @@
+
+.sky{
+    height: 100px;
+    width: 200px;
+    padding: 5px;
+    border: 2px solid #30F ;
+}
+.sky2{
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid #C00 ;
+    
+}
+div{
+    background: url(../img/f01.png) left bottom repeat-x,
+    url(../img/f02.png) left bottom no-repeat,
+    url(../img/f03.png) left top repeat-x,
+    #a4d3ff;
+}

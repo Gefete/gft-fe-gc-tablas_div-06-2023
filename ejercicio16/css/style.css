@@ -1,0 +1,31 @@
+table{
+    text-align: center;
+    background-image: url(../img/Proyecto_nuevo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px  outset;
+    border-top-color: #a9a9ae;
+    border-left-color: #a9a9ae;
+    border-right-color: #000;
+    border-bottom-color: #000;
+    width: 700px;
+    color: #6f0705;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+td, th{
+    border: 2px inset;
+    border-top-color: #000;
+    border-left-color: #000;
+    border-right-color: #a9a9ae;
+    border-bottom-color: #a9a9ae;
+}
+th{
+    font-weight: normal;
+    background-color: #669966;
+}
+.subenunciado td{
+    background-color: #ffcc99;
+}
+.diferent td{
+    background-color: #ffff99;
+}
