@@ -8,7 +8,8 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 
 <br>
 
-[Texto del botón](URL){: .btn}
+[Texto del botón](URL) 
+{: .btn}
 
 [![Link](https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html)](URL)
 
