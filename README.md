@@ -8,9 +8,8 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 
 <br>
 
-| <center>Botón</center> |
-| --- |
-| [[https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html]](URL) |
+
+| <a href="[URL](https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html)" target="_blank"><button>Link Ejercicio11</button></a> |
 
 <input type ="button">
 hello
@@ -18,7 +17,7 @@ hello
 <button type="button"></button>
 </input>
 
-<a href="URL" target="_blank"><button>Texto del botón</button></a>
+
 
 <button type="button">
 <!--<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html">-->
