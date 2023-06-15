@@ -19,7 +19,6 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 <hr>
 
 ## Ejercicio 12
-<br> 
 
 <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/instalaciones.html" target="_blank">Link</a>
 
@@ -34,9 +33,6 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 
 ## Ejercicio 13
 
-<br> 
-
-
 <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio13/ejercicio13.html" target="_blank">Link</a>
 
 <br> 
@@ -46,8 +42,6 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 <hr> 
 
 ## Ejercicio 14
-
-<br> 
 
 <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio14/ejercicio14.html" target="_blank">Link</a>
 
@@ -59,8 +53,6 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
  <hr> 
  
 ## Ejercicio 15
-
- <br> 
  
  <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio15/ejercicio15.html" target="_blank">Link</a>
 
@@ -73,8 +65,6 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
  
 ## Ejercicio 16
 
-<br>
-
 <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio16/ejercicio16.html" target="_blank">Link</a>
 
  <br> 
@@ -85,7 +75,6 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
  
 ## Ejercicio 17
 
- <br> 
  
  <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio17/ejercicio17.html" target="_blank">Link</a>
 
@@ -96,8 +85,6 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
  <hr> 
  
 ## Ejercicio 18
-
- <br> 
  
   <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio18/ejercicio18.html" target="_blank">Link</a>
 
@@ -108,8 +95,6 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
  <hr> 
  
 ## Ejercicio 19
-
- <br> 
  
  <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio19/ejercicio19.html" target="_blank">Link</a>
 
@@ -121,8 +106,6 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
  <hr> 
  
 ## Ejercicio 20
-
- <br> 
  
  <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio20/ejercicio20.html" target="_blank">Link</a>
 
