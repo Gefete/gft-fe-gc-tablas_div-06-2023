@@ -123,7 +123,7 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
  
  ### Estudiante
  
-![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/646c0543-2bbd-4ddd-a0ce-4e4dfd33179e)
+![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/bb69e56d-251b-43a4-adfe-153539c5959a)
 
 ### Referencia
 
