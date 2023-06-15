@@ -6,9 +6,7 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 
 ## Ejercicio 11
 
-[Link](https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html):target="_blank"
-
-<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html" target="_blank" >Ir a YouTube</a>
+<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html" target="_blank">Link</a>
 
 <br>
 
@@ -23,8 +21,7 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 ## Ejercicio 12
 <br> 
 
-https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/instalaciones.html
-
+<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/instalaciones.html" target="_blank">Link</a>
 
 ### Autor
 ![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/80b15611-5bfb-4256-af40-9b93aeb62409)
@@ -39,7 +36,8 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/instalaciones.htm
 
 <br> 
 
-https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio13/ejercicio13.html
+
+<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio13/ejercicio13.html" target="_blank">Link</a>
 
 <br> 
 
@@ -51,7 +49,8 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio13/ejercicio13.ht
 
 <br> 
 
-https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio14/ejercicio14.html
+<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio14/ejercicio14.html" target="_blank">Link</a>
+
 
 <br>
 
@@ -63,7 +62,8 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio14/ejercicio14.ht
 
  <br> 
  
-https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio15/ejercicio15.html
+ <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio15/ejercicio15.html" target="_blank">Link</a>
+
 
  <br> 
  
@@ -75,7 +75,7 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio15/ejercicio15.ht
 
 <br>
 
-https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio16/ejercicio16.html
+<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio16/ejercicio16.html" target="_blank">Link</a>
 
  <br> 
  
@@ -87,7 +87,7 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio16/ejercicio16.ht
 
  <br> 
  
-https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio17/ejercicio17.html
+ <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio17/ejercicio17.html" target="_blank">Link</a>
 
  <br> 
  
@@ -99,7 +99,7 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio17/ejercicio17.ht
 
  <br> 
  
-https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio18/ejercicio18.html
+  <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio18/ejercicio18.html" target="_blank">Link</a>
 
  <br> 
  
@@ -111,7 +111,8 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio18/ejercicio18.ht
 
  <br> 
  
-https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio19/ejercicio19.html
+ <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio19/ejercicio19.html" target="_blank">Link</a>
+
 
  <br> 
  
@@ -123,7 +124,8 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio19/ejercicio19.ht
 
  <br> 
  
-https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio20/ejercicio20.html
+ <a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/ejercicio20/ejercicio20.html" target="_blank">Link</a>
+
 
  <br> 
  
