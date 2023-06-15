@@ -8,7 +8,7 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 
 [Link](https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html):target="_blank"
 
-<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html" target="_blank">Ir a YouTube</a>
+<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html" target="_blank" >Ir a YouTube</a>
 
 <br>
 
