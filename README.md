@@ -13,7 +13,7 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 | [[https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html]](URL) |
 
 <button type="button">
-//<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html">
+/*<a href="https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html">*/
 </button>
 <br>
 
