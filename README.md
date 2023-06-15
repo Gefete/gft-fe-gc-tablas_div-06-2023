@@ -7,7 +7,7 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 ## Ejercicio 11
 
 <br>
-<button>
+<button type="button">
 https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html
 </button>
 <br>
