@@ -9,8 +9,14 @@ https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/
 <br>
 https://gefete.github.io/gft-fe-gc-tablas_div-06-2023/deportes/donde2.html
 <br>
+### Autor
 
 ![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/44045a60-c305-474a-90c0-27b4ce495fca)
+
+### Referencia
+
+![image](https://github.com/Gefete/gft-fe-gc-tablas_div-06-2023/assets/84667512/00e4500e-cf56-4735-a05c-0028cdc49809)
+
 <hr>
 
 ## Ejercicio 12
